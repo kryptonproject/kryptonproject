@@ -1,3 +1,4 @@
+![Banner](https://i.pinimg.com/564x/bc/38/42/bc3842eff9c782c7ccef3138f149105b.jpg)
 # 💫 About Me:
 hello, i'm a malaysian cybersecurity student,<br>and i make a random tool and script in here<br> i'm still learning about programming, networking, blue hat and red hat..<br>so my bad if my code is kinda ugly lol.
 
