@@ -1,5 +1,6 @@
 ![Banner](https://i.pinimg.com/564x/bc/38/42/bc3842eff9c782c7ccef3138f149105b.jpg)
 # 💫 About Me:
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/44/41/25/4441256fa2de193c350428eb2f07f2ae.jpg">
 hello, i'm a malaysian cybersecurity student,<br>and i make a random tool and script in here<br> i'm still learning about programming, networking, blue hat and red hat..<br>so my bad if my code is kinda ugly lol.
 
 
